@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- PhD candidate in CS at USC.
+- Postdoc YI at Allen AI
+- PhD in CS at USC.
 - Homepage: https://yuchenlin.xyz/
 
