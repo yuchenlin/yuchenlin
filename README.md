@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Postdoc YI at Allen AI
-- PhD in CS at USC.
+- ~~Postdoc~~ Reseacher at Allen Institute for AI (AI2)
+- PhD in CS at USC. + BSc (IEE honor class) at SJTU.
 - Homepage: https://yuchenlin.xyz/
 
 <div style="text-align: center;">
