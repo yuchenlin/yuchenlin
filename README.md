@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ~~Postdoc~~ Reseacher at Allen Institute for AI (AI2)
+- ~~Postdoc~~ Reseach Scientist at Allen Institute for AI (AI2)
 - PhD in CS at USC. + BSc (IEE honor class) at SJTU.
 - Homepage: https://yuchenlin.xyz/
 
