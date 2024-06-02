@@ -46,7 +46,7 @@ Here are some ideas to get you started:
                                     <a class="imgbutton" target="_blank"
                                         href="https://twitter.com/billyuchenlin/status/1663603372220616704?s=20">
                                         <img style="height:19pt"
-                                            src="https://img.shields.io/badge/--white?style=social&logo=twitter">
+                                            src="https://img.shields.io/badge/--white?style=social&logo=x">
                                     </a>
                                     <a class="imgbutton" target="_blank"
                                         href="https://www.instagram.com/linkht/?hl=en">
