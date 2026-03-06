@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Bill Yuchen Lin is a researcher at xAI and an Affiliate Assistant Professor at the University of Washington (UW). His research centers on aligning large language models (LLMs), training AI agents, reasoning, and multi-modal LLMs, with a focus on post-training, evaluation, reward modeling, and synthetic data generation. 
+Bill Yuchen Lin is a member of technical staff at xAI and an Affiliate Assistant Professor at the University of Washington (UW). His research centers on aligning large language models (LLMs), training AI agents, reasoning, and multi-modal LLMs, with a focus on post-training, evaluation, reward modeling, and synthetic data generation. 
 
 <div style="text-align: center;">
                                     <!-- <a target="_blank" href="/publications">
